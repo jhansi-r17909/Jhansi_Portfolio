@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/laptop_img.jpg",
+    "description": "This project was  made to learn to build the interactive website.",
+    "skills": ["React", "JavaScript", "CSS","HTML","React-Router-Dom"],
+    "demo": "https://serene-praline-9edb60.netlify.app",
+    "source": "https://github.com/jhansi-r17909/Deliveryapp/tree/master"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/laptop_img.jpg",
+    "description": "This E-commerce web page is created using react,javascript,html,css.",
+    "skills": ["React", "JavaScript", "CSS", "HTML","React-Router-Dom"],
+    "demo": "https://celebrated-pavlova-2b28dc.netlify.app",
+    "source": "https://github.com/jhansi-r17909/Ecommerce_React"
+  },
+ 
+  {
+    "title": "Project C",
+    "imageSrc": "projects/laptop_img.jpg",
+    "description": "The project is made mostly to show my CSS skills and I have build the logics with JS.",
+    "skills": ["JavaScript","HTML","CSS"],
+    "demo": "https://courageous-meerkat-f3eb70.netlify.app/",
+    "source": "https://github.com/jhansi-r17909/DigitalClockProject"
+  }, {
+    "title": "Project D",
+    "imageSrc": "projects/laptop_img.jpg",
+    "description": "This portfolio was build using React , Javascript , HTML and CSS and react router dom",
+    "skills": ["React","JavaScript","HTML","CSS"],
+    "demo": "https://courageous-meerkat-f3eb70.netlify.app/",
+    "source": "https://github.com/jhansi-r17909/DigitalClockProject"
+  }
+  
+
+ 
+]

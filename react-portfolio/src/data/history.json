@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer 1",
+    "organisation": "CloudEq",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on food application", "Used third party Libraries"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "CloudEq",
+    "startDate": "August, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Woked on RSM Project" , "Building interactive and Responsive Web Application"]
+   
+  },
+  {
+    "role": "Software Trainee",
+    "organisation": "PrepBytes",
+    "startDate": "January, 2022",
+    "endDate": "July, 2022",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ]
+   
+  }
+]
